@@ -23,10 +23,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stat.vercel.app/api?username=devjohnatas&show_icons=true&theme=dark&hide_border=true" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=devjohnatas&show_icons=true&theme=dark&hide_border=true"
+        alt="GitHub Stats"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stat.vercel.app/api/top-langs?username=devjohnatas&layout=compact&theme=dark&hide_border=true" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjohnatas&layout=compact&theme=dark&hide_border=true"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
